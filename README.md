@@ -1,6 +1,6 @@
 # Security-
 Spring Security Project
-📌 Overview
+Overview
 This project demonstrates Spring Boot Security with:
 
 User registration and login
@@ -9,7 +9,7 @@ Account lock after multiple failed attempts
 Audit logging for login events
 
 
-✅ Features
+Features
 
 Register new users with roles (USER, ADMIN)
 Login with username and password
@@ -18,7 +18,7 @@ Audit logs for login success, failure, and account lock
 Password encryption using BCrypt
 
 
-🗂 Database Schema
+Database Schema
 Tables
 <img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/2875a9a4-6145-41ff-a2dc-8caabacaaaf3" />
 
@@ -107,9 +107,6 @@ Run the application:
 Shellmvn spring-boot:runShow more lines
 
 Access APIs via Postman or browser.
-
-
-📚 API Endpoints
 
 
 
